@@ -1,4 +1,4 @@
-# selenium-fundamentals
+# selenium-java-fundamentals
 These are the essentials to master Selenium.
 
 https://github.com/SeleniumHQ/seleniumhq.github.io/tree/trunk/examples/java
